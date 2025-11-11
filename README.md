@@ -69,11 +69,7 @@ I love clean architecture, scalability, and continuous learning.
 
 ## 📫 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vladyslav-lahuta-29b60234a/" target="_blank">
+  <a href="https://www.linkedin.com/in/vladyslav-lahuta-29b60234a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vd1olkdyuslt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-orange?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
-
